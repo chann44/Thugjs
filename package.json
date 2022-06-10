@@ -1,0 +1,10 @@
+{
+  "name": "Thugjs",
+  "version": "0.0.1",
+  "description": "this is a library for providing fake data about all sorts of things and also web3 nfts transection",
+  "main": "index.ts",
+  "repository": "git@github.com:chann44/Thugjs.git",
+  "author": "Chann44 <44chansw@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
